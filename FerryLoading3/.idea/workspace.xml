@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b0c21cb-2370-4c7a-bedf-617195732616" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XeuHpoFsmDaKMJM5A962aiOqh9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TicTacToe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="FerryLoading3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0c21cb-2370-4c7a-bedf-617195732616" name="Default Changelist" comment="" />
+      <created>1581418796531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581418796531</updated>
+      <workItem from="1581418800334" duration="7040000" />
+      <workItem from="1581425983186" duration="18556000" />
+      <workItem from="1581500531790" duration="1404000" />
+      <workItem from="1581511844475" duration="246000" />
+      <workItem from="1581932097825" duration="51000" />
+      <workItem from="1583138228334" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="266" key="#xdebugger.evaluate" timestamp="1581452793384">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="811" y="266" key="#xdebugger.evaluate/0.0.1368.912@0.0.1368.912" timestamp="1581452793384" />
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1581439038555">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="433" height="466" key="DebuggerActiveHint/0.0.1368.912@0.0.1368.912" timestamp="1581439038555" />
+    <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1583138263429">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="465" y="212" key="FileChooserDialogImpl/0.0.1368.912@0.0.1368.912" timestamp="1583138263429" />
+    <state width="1326" height="296" key="GridCell.Tab.0.bottom" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.0.center" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.0.left" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.0.right" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.1.bottom" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.1.bottom/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.1.center" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.1.center/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.1.left" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.1.left/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state width="1326" height="296" key="GridCell.Tab.1.right" timestamp="1581502774135">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1326" height="296" key="GridCell.Tab.1.right/0.0.1368.912@0.0.1368.912" timestamp="1581502774135" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1581511850344">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1368.912@0.0.1368.912" timestamp="1581511850344" />
+    <state x="109" y="78" key="new project wizard" timestamp="1581511977996">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="109" y="78" key="new project wizard/0.0.1368.912@0.0.1368.912" timestamp="1581511977996" />
+    <state x="347" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1581435748653">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="347" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1368.912@0.0.1368.912" timestamp="1581435748653" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
